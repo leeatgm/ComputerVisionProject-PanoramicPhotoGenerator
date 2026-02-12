@@ -20,6 +20,23 @@ The quality of the result depends on proper stride and threshold configuration f
 
 ---
 
+## 📄 Project Report
+
+A detailed explanation of the methodology, algorithms, implementation process, and experimental results can be found in the project report included in this repository.
+
+The report covers:
+
+- Feature detection and matching approach  
+- Frame selection strategy  
+- Homography estimation  
+- Image stitching process   
+
+Refer to the report for a deeper technical understanding of the system.
+
+👉 [View Project Report](report.pdf)
+
+---
+
 ## 🚀 How to Run
 
 There are **two entry points** to run the program:
@@ -75,5 +92,4 @@ Always adjust the stride before running the program.
 
 - Python  
 - OpenCV (`cv2`)  
-- Other required imaging or GUI libraries used in the project
-- 
+- Other required imaging or GUI libraries used in the project  
